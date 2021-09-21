@@ -1,0 +1,9 @@
+.header__lang-button{
+    margin-right: 18px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.header__lang-button:last-child{
+    margin-right: 0;
+}

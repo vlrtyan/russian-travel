@@ -1,15 +1,8 @@
 .header__lang-link{
-    margin-right: 18px;
     color: #FFFFFF;
     font-weight: normal;
     font-size: 24px;
     line-height: 1;
-    text-decoration: none;
-    list-style-type: none;
-}
-
-.header__lang-link:last-child{
-    margin-right: 0;
 }
 
 .header__lang-link:hover{
